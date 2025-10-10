@@ -1,0 +1,2 @@
+# adb
+adlist for mikrotik
